@@ -1,0 +1,28 @@
+body {
+  font-family: "Raleway", sans-serif;
+  margin-left: 17px;
+
+}
+
+.input-single{
+  font-size: 13px;
+  border-radius: 20px;
+  padding: 12px 20px;
+  font-family: "Raleway", sans-serif;
+
+}
+
+.Start{
+	background-image: linear-gradient(127deg, #a759d1 0%, #8261ee 91%);
+	position: center;
+}
+
+.listen-note{
+	color: purple;
+
+}
+
+.delete-note{
+	color: purple;
+
+}
