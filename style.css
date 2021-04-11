@@ -601,7 +601,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(https://raw.githubusercontent.com/reevakhokhar/STEP/main/banner-bg.png);
+  background-image: url(https://github.com/reevakhokhar/STEP/blob/main/banner-bg.png?raw=true);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; 
